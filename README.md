@@ -55,7 +55,7 @@ The format you need to have to make the following steps work is:
 
 6) *ONLY IF YOU WANT TO CREATE NEW FEATURES*: run ```create_features.py```. Please note this is NOT necessary as in the ```features``` folder there are already the joblib files created with ```create_features.py```.
 
-7) *ONLY IF YOU WANT TO CREATE A NEW MODEL*:  run the python notebook [SER(Deep_Learning).ipynb](Deep Learning/SER(Deep_Learning).ipynb). Please note this is NOT necessary as in the ```DeepLearning``` folder there is already a [pre_trained model](Deep Learning/SER_model.h5) to use.
+7) *ONLY IF YOU WANT TO CREATE A NEW MODEL*:  run the python notebook [SER(Deep_Learning).ipynb](https://github.com/abhay8463/Speech-Emotion-Recognition-using-ML-and-DL/blob/master/Deep%20Learning/SER(Deep_Learning).ipynb). Please note this is NOT necessary as in the ```DeepLearning``` folder there is already a [pre_trained model](https://github.com/abhay8463/Speech-Emotion-Recognition-using-ML-and-DL/blob/master/Deep%20Learning/SER_model.h5) to use.
 
 **How to test the model created in this work**
 
